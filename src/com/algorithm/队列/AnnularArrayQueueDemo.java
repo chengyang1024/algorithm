@@ -2,7 +2,7 @@ package com.algorithm.队列;
 
 import java.util.Scanner;
 
-//环形队列
+//环形队列测试1111111
 public class AnnularArrayQueueDemo {
 
     public static void main(String[] args) {
